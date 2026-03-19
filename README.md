@@ -1,4 +1,4 @@
-git clone https://github.com/domdelacruz1113/AndronixOrigin
+git clone https://github.com/domdelacruz1113/demo-repository
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/imprakharshukla/Readme-Resources/master/images/app_logo_verticle.png">
